@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "carlo-lombardi/static/css/main.ff4c03d3.chunk.css",
-    "main.js": "carlo-lombardi/static/js/main.81716508.chunk.js",
-    "main.js.map": "carlo-lombardi/static/js/main.81716508.chunk.js.map",
-    "runtime~main.js": "carlo-lombardi/static/js/runtime~main.cf9f0275.js",
-    "runtime~main.js.map": "carlo-lombardi/static/js/runtime~main.cf9f0275.js.map",
-    "static/css/2.c3fd0197.chunk.css": "carlo-lombardi/static/css/2.c3fd0197.chunk.css",
-    "static/js/2.22539b12.chunk.js": "carlo-lombardi/static/js/2.22539b12.chunk.js",
-    "static/js/2.22539b12.chunk.js.map": "carlo-lombardi/static/js/2.22539b12.chunk.js.map",
-    "index.html": "carlo-lombardi/index.html",
-    "precache-manifest.28787baf35db3cf37a9b282fa1b8c6b5.js": "carlo-lombardi/precache-manifest.28787baf35db3cf37a9b282fa1b8c6b5.js",
-    "service-worker.js": "carlo-lombardi/service-worker.js",
-    "static/css/2.c3fd0197.chunk.css.map": "carlo-lombardi/static/css/2.c3fd0197.chunk.css.map",
-    "static/css/main.ff4c03d3.chunk.css.map": "carlo-lombardi/static/css/main.ff4c03d3.chunk.css.map",
-    "static/media/index.scss": "carlo-lombardi/static/media/slick.f97e3bbf.svg"
+    "main.css": "/static/css/main.9777f0dc.chunk.css",
+    "main.js": "/static/js/main.4fc09e77.chunk.js",
+    "main.js.map": "/static/js/main.4fc09e77.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.0d79c8fb.chunk.css": "/static/css/2.0d79c8fb.chunk.css",
+    "static/js/2.88a8e084.chunk.js": "/static/js/2.88a8e084.chunk.js",
+    "static/js/2.88a8e084.chunk.js.map": "/static/js/2.88a8e084.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cd717112fb1f3ec00296576cb5a6029d.js": "/precache-manifest.cd717112fb1f3ec00296576cb5a6029d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.0d79c8fb.chunk.css.map": "/static/css/2.0d79c8fb.chunk.css.map",
+    "static/css/main.9777f0dc.chunk.css.map": "/static/css/main.9777f0dc.chunk.css.map",
+    "static/media/index.scss": "/static/media/slick.f97e3bbf.svg"
   }
 }
